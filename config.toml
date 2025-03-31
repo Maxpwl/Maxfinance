@@ -1,4 +1,4 @@
-baseURL = "https://maxpwl.github.io/Maxfinance/"
+baseURL = "https://maxpwl.github.io"
 languageCode = "zh-cn"
 relativeURLs = false
 disablePathToLower = true
